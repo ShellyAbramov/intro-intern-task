@@ -8,4 +8,4 @@ Coding Language Comftorable with: Python and C++
 
 One tech skill I want to improve: Skill in HTML and CSS
 
-Fun Fact: I used to live in Colorado.
+Fun Fact: I am trilingual.
